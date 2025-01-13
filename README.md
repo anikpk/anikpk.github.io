@@ -2,4 +2,6 @@
 <h2 align="center">Machine Learning Researcher</h1>
 
 <h2 align="center">Looking for a PhD Position | ML Researcher | Deep Learning | Image Processing | NLP</h1>
-<h4 align="center">Self-motivated and agile, with teamwork expertise resulting from a comprehensive extracurricular activity, with a degree in Computer Science and Engineering. Effective in terms of forecasts and analysis of computations and techniques. With the ability to work hard with absolute obligation, which may work with a sense of leadership and drive independently or in groups. Striving to reach the highest level, in any given mission or situation, in a coordinated way, with the communication skills acquired.</h3>
+<h4 align="center">I am passionate about leveraging Machine Learning in Healthcare, particularly in Healthcare Analytics and Medical Image Analysis. My research focuses on applying deep learning algorithms to enhance diagnostic accuracy in medical imaging, such as MRI and CT scans, facilitating early disease detection and personalized medicine.
+
+I am also interested in utilizing predictive analytics to optimize healthcare operations by analyzing complex datasets from electronic health records, aiming to inform clinical decision-making and improve patient outcomes. With a solid foundation in [your relevant experience or coursework], I am eager to collaborate on innovative, data-driven solutions that address critical challenges in healthcare.</h3>
