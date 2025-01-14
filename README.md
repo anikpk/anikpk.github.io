@@ -1,6 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+##### Languages: Python, MySQL, PostgreSQL, MongoDB
+##### Familiar With: C, Java, R, LaTeX, MATLAB, HTML/CSS
+##### Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
+##### BI Tools: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI
+##### ETL Tool: Apache Airflow
+##### Data Science Tools: Colab, Jupyter Notebook, WEKA, Orange
+##### Soft Skills: Leadership, Debating, Research-Writing, Time Management
 
 ## Education				       			        		
 - B.Sc. in Computer Science & Engineering | Daffodil International University, Dhaka, Bangladesh (_2020_)
