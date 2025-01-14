@@ -2,15 +2,26 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education				       			        		
+- B.Sc. in Computer Science & Engineering | Daffodil International University, Dhaka, Bangladesh (_2020_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Industry Experience
+**Senior Data Analyst @ Sheba.xyz & sBusiness.xyz, Dhaka, Bangladesh (Feb 2024 - Present_)**
+- Created & maintained interactive dashboards for real-time monitoring of key metrics and performance indicators.
+- Automated reporting tasks, reducing manual effort and ensuring timely insights.
+- Identified areas for operational improvements through data analysis to streamline processes and reduce costs.
+- Monitored fraudulent activities to ensure the integrity of financial transactions and service delivery.
+- Guided and mentored junior analysts, fostering a culture of continuous learning and improvement.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analyst @ Sheba.xyz, Dhaka, Bangladesh (_Mar '23 – Jan '24)_)**
+- Extracted, cleaned, and analyzed diverse data sources to generate actionable insights.
+- Analyzed customer behavior and service provider performance to enhance user experiences.
+- Successfully designed and implemented Telesales cohorts resulting in a notable 10% increase in sales.
+- Created compelling metabase dashboards and reports for effective communication.
+- Ensured data security, compliance, and continuous process improvement.
+
+**Data Analyst @ UniGroc Ltd., Dhaka, Bangladesh  (_Mar '23 – Jan '24)_)**
+- Collected and stored data in an organized fashion to ensure efficient retrieval when needed.
+- Developed and deployed dashboards to collect data-backed insights.
+- Supported business intelligence strategies with quantitative analysis.
+- Reviewed data for accuracy and ensured that it was presented in a clear and concise manner.
