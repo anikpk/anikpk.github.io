@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: 
+## Technical Skills: 
 ##### Languages: Python, MySQL, PostgreSQL, MongoDB
 ##### Familiar With: C, Java, R, LaTeX, MATLAB, HTML/CSS
 ##### Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
