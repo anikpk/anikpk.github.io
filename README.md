@@ -1,4 +1,4 @@
-# Data Scientist
+# Senior Data Analyst & Machine Learning Enthusiast
 
 ## Technical Skills: 
 ##### Languages: Python, MySQL, PostgreSQL, MongoDB
