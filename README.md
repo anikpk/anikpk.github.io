@@ -1,4 +1,5 @@
-# Senior Data Analyst & Machine Learning Enthusiast
+## Research Interest
+##### Machine Learning, Healthcare Analytics, Large Language Models (LLM).
 
 ## Technical Skills: 
 ##### Languages: Python, MySQL, PostgreSQL, MongoDB
