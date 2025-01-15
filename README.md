@@ -34,6 +34,15 @@
 - Supported business intelligence strategies with quantitative analysis.
 - Reviewed data for accuracy and ensured that it was presented in a clear and concise manner.
 
+## Teaching Experience:  
+- **Teaching Assistant (TA)** | Dept. of CSE, Daffodil International University, Dhaka, Bangladesh (_Spring '19 - Spring '21_)  
+  - **Microprocessor & Assembly Language Lab** (_Spring '19_)  
+  - **Database Management System Lab** (_Summer & Fall '19_)  
+  - **Artificial Intelligence Lab** (_Summer '20_)  
+  - **Data Mining & Machine Learning Lab** (_Spring & Fall '20_)
+
+
+
 
 ## Achievements:  
 - **Research Awardee**: Dept. of CSE & DIU Division of Research, 2021  
