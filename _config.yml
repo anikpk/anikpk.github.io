@@ -4,4 +4,4 @@ header:
       logo_size: 90px # You can adjust the pixel size here
 description: Looking for a PhD Position | Machine Learning | Healthcare Analytics | Federated Learning
 #show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
