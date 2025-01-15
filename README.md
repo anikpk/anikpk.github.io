@@ -1,17 +1,17 @@
 ## Research Interest
-##### Machine Learning, Healthcare Analytics, Large Language Models (LLM).
+##### Machine Learning, Healthcare Analytics, Federated learning (FL).
 
-## Technical Skills: 
-##### Languages: ###### Python, MySQL, PostgreSQL, MongoDB
-##### Familiar With: ###### C, Java, R, LaTeX, MATLAB, HTML/CSS
-##### Libraries: ###### Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
-##### BI Tools: ###### Metabase, Apache Superset, Google BigQuery, Microsoft Power BI
-##### ETL Tool: ###### Apache Airflow
-##### Data Science Tools: ###### Colab, Jupyter Notebook, WEKA, Orange
-##### Soft Skills: ###### Leadership, Debating, Research-Writing, Time Management
+## Technical Skills:  
+- **Languages**: Python, MySQL, PostgreSQL, MongoDB  
+- **Familiar With**: C, Java, R, LaTeX, MATLAB, HTML/CSS  
+- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch  
+- **BI Tools**: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI  
+- **ETL Tool**: Apache Airflow  
+- **Data Science Tools**: Colab, Jupyter Notebook, WEKA, Orange  
+- **Soft Skills**: Leadership, Debating, Research-Writing, Time Management
 
 ## Education				       			        		
-- B.Sc. in Computer Science & Engineering | Daffodil International University, Dhaka, Bangladesh (_2020_)
+- B.Sc. in Computer Science & Engineering (CSE) | Daffodil International University, Dhaka, Bangladesh (_2020_)
 
 ## Industry Experience
 **Senior Data Analyst @ Sheba.xyz & sBusiness.xyz, Dhaka, Bangladesh (Feb 2024 - Present_)**
@@ -33,3 +33,22 @@
 - Developed and deployed dashboards to collect data-backed insights.
 - Supported business intelligence strategies with quantitative analysis.
 - Reviewed data for accuracy and ensured that it was presented in a clear and concise manner.
+
+
+## Achievements:  
+- **Research Awardee**: Dept. of CSE & DIU Division of Research, 2021  
+- **Merit-Based Scholarship**: Received merit-based waiver from Dept. of CSE (Summer & Fall 2020)  
+- **Finalist**: 'Dr. Aminul Islam Memorial Debate Fest-2019' (Intra University Debate Fest)  
+- **Best Delegate**: Representative of AFP Correspondent at 'Leading University Youth Conclave 2018'  
+- **Outstanding Delegate**: 'Comilla University Model UN Conference 2018', International Press  
+- **Honorable Mention**: 'UNYSAB Model United Nations 2017', Represented Austria at UNEP  
+
+
+## Leadership & Involvements:  
+- **Class Representative (CR)** for the entire undergraduate life of my class.  
+- **Member of DIU Computer & Programming Club (CPC)** [Tenure: 2017-2020].  
+- **Member of IEEE Bangladesh Section & IEEE Young Professionals** (Member ID - 97843285).  
+- **Executive Member of DIU IEEE Student Branch** [Tenure: 2018-2020].  
+- **Vice President of DIU Model United Nations Association** [Tenure: 2019-2020].  
+- **Assistant Joint Secretary, Media & PR Secretary of DIU Debating Club** [Tenure: 2017-2020].  
+- **Executive Member, Joint Secretary of Nature Study Club of DIU** [Tenure: 2018-2020].
