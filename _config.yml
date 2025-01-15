@@ -1,7 +1,7 @@
 title: Anik Pramanik
 logo: assets/img/profile.jpg 
 header: 
-      logo_size: 90px # You can adjust the pixel size here
+      logo_size: 80px # You can adjust the pixel size here
 description: Looking for a PhD Position | Machine Learning | Healthcare Analytics | Federated Learning
 #show_downloads: true
 theme: jekyll-theme-minimal
