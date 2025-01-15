@@ -1,5 +1,5 @@
 ## Research Interest
-##### Machine Learning, Healthcare Analytics, Federated learning (FL).
+##### Machine Learning, Healthcare Analytics, Federated Learning (FL).
 
 ## Technical Skills:  
 - **Languages**: Python, MySQL, PostgreSQL, MongoDB  
