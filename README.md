@@ -1,10 +1,11 @@
 ## Research Interest
-##### Machine Learning, Healthcare Analytics, Federated Learning (FL).
+##### Machine Learning, Healthcare Analytics, Large Language Models (LLMs), Federated Learning (FL).
 
 ## Technical Skills:  
-- **Languages**: Python, MySQL, PostgreSQL, MongoDB  
-- **Familiar With**: C, Java, R, LaTeX, MATLAB, HTML/CSS  
-- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch  
+- **Languages**: Python, MySQL, Java, PostgreSQL, MongoDB.
+- **Familiar With**: C, Kotlin, R, LaTeX, MATLAB, HTML/CSS.
+- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
+- **Generative AI**: Langchain, Llama 2, Pinecone.
 - **BI Tools**: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI  
 - **ETL Tool**: Apache Airflow  
 - **Data Science Tools**: Colab, Jupyter Notebook, WEKA, Orange  
