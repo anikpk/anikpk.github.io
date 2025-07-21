@@ -15,6 +15,7 @@
 ## Education:  
 - **B.Sc. in Computer Science & Engineering (CSE),**  
   **Daffodil International University**, Dhaka, Bangladesh (_2020_)
+  
 Thesis: **"Predicting Depression during the Covid-19 Pandemic among the People of Bangladesh Using Machine Learning",**  
   supervised by Dr. Md. Sadekur Rahman.
 
