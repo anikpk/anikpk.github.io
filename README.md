@@ -6,20 +6,21 @@
 - **Familiar With**: C, Kotlin, R, LaTeX, MATLAB, HTML/CSS.
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
 - **Generative AI**: Langchain, Llama 2, Pinecone.
+- **MLOps Tool: MLflow.
 - **BI Tools**: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI  
-- **ETL Tool**: Apache Airflow  
+- **ETL Tool**: Azure Data Factory, Azure Synapse Analytics 
 - **Data Science Tools**: Colab, Jupyter Notebook, WEKA, Orange  
 - **Soft Skills**: Leadership, Debating, Research-Writing, Time Management
 
 ## Education:  
 - **B.Sc. in Computer Science & Engineering (CSE),**  
   **Daffodil International University**, Dhaka, Bangladesh (_2020_)
-####
+  
 Thesis: **"Predicting Depression during the Covid-19 Pandemic among the People of Bangladesh Using Machine Learning",**  
   supervised by Dr. Md. Sadekur Rahman.
 
 ## Industry Experience
-**Senior Data Analyst @ Sheba.xyz & sBusiness.xyz, Dhaka, Bangladesh (Feb 2024 - Present_)**
+**Senior Data Analyst @ Sheba.xyz & sBusiness.xyz, Dhaka, Bangladesh (Feb 2024 - June 2025)**
 - Created & maintained interactive dashboards for real-time monitoring of key metrics and performance indicators.
 - Automated reporting tasks, reducing manual effort and ensuring timely insights.
 - Identified areas for operational improvements through data analysis to streamline processes and reduce costs.
