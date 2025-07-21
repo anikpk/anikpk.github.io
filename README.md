@@ -1,5 +1,5 @@
 ## Research Interest
-##### Machine Learning, Healthcare Analytics, Large Language Models (LLMs), Federated Learning (FL).
+##### Data Engineer | Healthcare Analytics Researcher | Image Processing | Large Language Models
 
 ## Technical Skills:  
 - **Languages**: Python, MySQL, Java, PostgreSQL, MongoDB.
@@ -15,7 +15,6 @@
 ## Education:  
 - **B.Sc. in Computer Science & Engineering (CSE),**  
   **Daffodil International University**, Dhaka, Bangladesh (_2020_)
-  
 Thesis: **"Predicting Depression during the Covid-19 Pandemic among the People of Bangladesh Using Machine Learning",**  
   supervised by Dr. Md. Sadekur Rahman.
 
@@ -74,5 +73,4 @@ Thesis: **"Predicting Depression during the Covid-19 Pandemic among the People o
 - Worked as the Sub-editor of **'Leading University Model United Nations 2020'** at International Press (IP).  
 - Served as the **Deputy Secretary General** of **'Daffodil International Model United Nations Conference 2020'**.  
 - Part of the core judgment team & served as the director of **'NSTU Model United Nations Conference 2020'** at United Nations Environment Programme (UNEP) Committee.
-
 
