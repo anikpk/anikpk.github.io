@@ -6,7 +6,7 @@
 - **Familiar With**: C, Kotlin, R, LaTeX, MATLAB, HTML/CSS.
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
 - **Generative AI**: Langchain, Llama 2, Pinecone.
-- **MLOps Tool: MLflow.
+- **MLOps Tool:** MLflow.
 - **BI Tools**: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI  
 - **ETL Tool**: Azure Data Factory, Azure Synapse Analytics 
 - **Data Science Tools**: Colab, Jupyter Notebook, WEKA, Orange  
