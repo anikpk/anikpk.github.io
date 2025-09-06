@@ -3,14 +3,14 @@
 
 ## Technical Skills:  
 - **Languages**: Python, MySQL, Java, PostgreSQL, MongoDB.
-- **Familiar With**: C, Kotlin, R, LaTeX, MATLAB, HTML/CSS.
-- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch
-- **Generative AI**: Langchain, Llama 2, Pinecone.
+- **Familiar With**: C, Golang, R, LaTeX, MATLAB, HTML/CSS.
+- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Pytorch,
+- **Generative AI**: Langchain, Llama 2, ChromaDB, Pinecone, Weaviate.
 - **MLOps Tool:** MLflow.
-- **BI Tools**: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI  
-- **ETL Tool**: Azure Data Factory, Azure Synapse Analytics 
-- **Data Science Tools**: Colab, Jupyter Notebook, WEKA, Orange  
-- **Soft Skills**: Leadership, Debating, Research-Writing, Time Management
+- **BI Tools**: Metabase, Apache Superset, Google BigQuery, Microsoft Power BI.  
+- **ETL Tool**: Azure Data Factory, Azure Synapse Analytics. 
+- **Misc. Tools**: Microsoft Clarity, Colab, Jupyter Notebook, WEKA, Orange.  
+- **Soft Skills**: Leadership, Debating, Research-Writing, Time Management.
 
 ## Education:  
 - **B.Sc. in Computer Science & Engineering (CSE),**  
@@ -20,7 +20,13 @@ Thesis: **"Predicting Depression during the Covid-19 Pandemic among the People o
   supervised by Dr. Md. Sadekur Rahman.
 
 ## Industry Experience
-**Senior Data Analyst @ Sheba.xyz & sBusiness.xyz, Dhaka, Bangladesh (Feb 2024 - June 2025)**
+**Senior Data Analyst @ ADN DigiNet Ltd, Dhaka, Bangladesh (_Jul '25 – Present)_)**
+- Maintained, and optimized scalable data pipelines for ETL/ELT processes.
+- Developed and managed cloud-based data infrastructure using Microsoft Azure.
+- Ensured data integrity, accuracy, and reliability across multiple sources.
+- Collaborated closely with data scientists and analysts to deliver production-ready datasets.
+  
+**Senior Data Analyst @ Sheba.xyz & sBusiness.xyz, Dhaka, Bangladesh (_Feb '23 – Jun '25)_)**
 - Created & maintained interactive dashboards for real-time monitoring of key metrics and performance indicators.
 - Automated reporting tasks, reducing manual effort and ensuring timely insights.
 - Identified areas for operational improvements through data analysis to streamline processes and reduce costs.
